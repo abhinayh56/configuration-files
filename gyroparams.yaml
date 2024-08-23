@@ -1,0 +1,22 @@
+Link: https://in.mathworks.com/help/fusion/ref/gyroparams.html
+
+  gyroparams with properties:
+
+         Sensitivity: 0               LSB/(rad/s)
+      MeasurementMin: Inf             rad/s      
+      MeasurementMax: Inf             rad/s      
+    MeasurementRange: Inf             rad/s      
+          Resolution: 0               (rad/s)/LSB
+        ConstantBias: [0 0 0]         rad/s      
+    AxesMisalignment: [3⨯3 double]    %          
+
+         NoiseStandardDeviation: [0 0 0]           rad/s
+                   NoiseDensity: [0 0 0]           (rad/s)/√Hz
+                BiasInstability: [0 0 0]           rad/s      
+                     RandomWalk: [0 0 0]           (rad/s)*√Hz
+                      NoiseType: "double-sided"               
+    BiasInstabilityCoefficients: [1⨯1 struct]                 
+
+           TemperatureBias: [0 0 0]    (rad/s)/°C    
+    TemperatureScaleFactor: [0 0 0]    %/°C          
+          AccelerationBias: [0 0 0]    (rad/s)/(m/s²)

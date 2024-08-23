@@ -1,0 +1,21 @@
+Link: https://in.mathworks.com/help/fusion/ref/magparams.html
+
+  magparams with properties:
+
+         Sensitivity: 0               LSB/(µT)
+      MeasurementMin: Inf             µT      
+      MeasurementMax: Inf             µT      
+    MeasurementRange: Inf             µT      
+          Resolution: 0               (µT)/LSB
+        ConstantBias: [0 0 0]         µT      
+    AxesMisalignment: [3⨯3 double]    %       
+
+         NoiseStandardDeviation: [0 0 0]           µT
+                   NoiseDensity: [0 0 0]           (µT)/√Hz
+                BiasInstability: [0 0 0]           µT      
+                     RandomWalk: [0 0 0]           (µT)*√Hz
+                      NoiseType: "double-sided"            
+    BiasInstabilityCoefficients: [1⨯1 struct]              
+
+           TemperatureBias: [0 0 0]    (µT)/°C
+    TemperatureScaleFactor: [0 0 0]    %/°C 

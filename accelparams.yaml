@@ -1,0 +1,21 @@
+Link: https://in.mathworks.com/help/fusion/ref/accelparams.html
+
+  accelparams with properties:
+
+         Sensitivity: 0               LSB/(m/s²)
+      MeasurementMin: Inf             m/s²      
+      MeasurementMax: Inf             m/s²      
+    MeasurementRange: Inf             m/s²      
+          Resolution: 0               (m/s²)/LSB
+        ConstantBias: [0 0 0]         m/s²      
+    AxesMisalignment: [3⨯3 double]    %         
+
+         NoiseStandardDeviation: [0 0 0]           m/s²
+                   NoiseDensity: [0 0 0]           (m/s²)/√Hz
+                BiasInstability: [0 0 0]           m/s²      
+                     RandomWalk: [0 0 0]           (m/s²)*√Hz
+                      NoiseType: "double-sided"              
+    BiasInstabilityCoefficients: [1⨯1 struct]                
+
+           TemperatureBias: [0 0 0]    (m/s²)/°C
+    TemperatureScaleFactor: [0 0 0]    %/°C   
