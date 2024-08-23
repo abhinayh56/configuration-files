@@ -1,0 +1,5 @@
+     A: [[0.0, 0.0, 0.0]
+         [0.0, 0.0, 0.0]
+         [0.0, 0.0, 0.0]]    Correction matrix for the soft-iron effect
+     b: [0.0, 0.0, 0.0]      Correction vector for the hard-iron effect
+expmfs: 0.0                  Expected magnetic field strength
