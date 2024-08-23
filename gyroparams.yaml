@@ -3,12 +3,13 @@ Link: https://in.mathworks.com/help/fusion/ref/gyroparams.html
   gyroparams with properties:
 
          Sensitivity: 0               LSB/(rad/s)
-      MeasurementMin: Inf             rad/s      
+      MeasurementMin: -Inf            rad/s      
       MeasurementMax: Inf             rad/s      
     MeasurementRange: Inf             rad/s      
           Resolution: 0               (rad/s)/LSB
         ConstantBias: [0 0 0]         rad/s      
     AxesMisalignment: [3⨯3 double]    %          
+          SampleRate: Inf             Hz
 
          NoiseStandardDeviation: [0 0 0]           rad/s
                    NoiseDensity: [0 0 0]           (rad/s)/√Hz

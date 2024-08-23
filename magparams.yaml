@@ -3,12 +3,13 @@ Link: https://in.mathworks.com/help/fusion/ref/magparams.html
   magparams with properties:
 
          Sensitivity: 0               LSB/(µT)
-      MeasurementMin: Inf             µT      
+      MeasurementMin: -Inf            µT      
       MeasurementMax: Inf             µT      
     MeasurementRange: Inf             µT      
           Resolution: 0               (µT)/LSB
         ConstantBias: [0 0 0]         µT      
     AxesMisalignment: [3⨯3 double]    %       
+          SampleRate: Inf             Hz
 
          NoiseStandardDeviation: [0 0 0]           µT
                    NoiseDensity: [0 0 0]           (µT)/√Hz

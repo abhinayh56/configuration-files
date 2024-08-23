@@ -3,12 +3,13 @@ Link: https://in.mathworks.com/help/fusion/ref/accelparams.html
   accelparams with properties:
 
          Sensitivity: 0               LSB/(m/s²)
-      MeasurementMin: Inf             m/s²      
+      MeasurementMin: -Inf            m/s²      
       MeasurementMax: Inf             m/s²      
     MeasurementRange: Inf             m/s²      
           Resolution: 0               (m/s²)/LSB
         ConstantBias: [0 0 0]         m/s²      
     AxesMisalignment: [3⨯3 double]    %         
+          SampleRate: Inf             Hz
 
          NoiseStandardDeviation: [0 0 0]           m/s²
                    NoiseDensity: [0 0 0]           (m/s²)/√Hz
