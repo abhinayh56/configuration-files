@@ -1,0 +1,12 @@
+  insSensor with properties:
+
+           MountingLocation: [0 0 0]            m    
+               RollAccuracy: 0.2                deg  
+              PitchAccuracy: 0.2                deg  
+                YawAccuracy: 1                  deg  
+           PositionAccuracy: [1 1 1]            m    
+           VelocityAccuracy: 0.05               m/s  
+       AccelerationAccuracy: 0                  m/s² 
+    AngularVelocityAccuracy: 0                  deg/s
+                  TimeInput: [1⨯1 logical]           
+               RandomStream: 'Global stream' 
